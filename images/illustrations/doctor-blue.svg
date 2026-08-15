@@ -1,0 +1,37 @@
+<svg viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAF3FA"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="738.0" cy="126.0" r="144.0" fill="#1FAE8C" opacity="0.10"/>
+  <circle cx="108.0" cy="595.0" r="198.0" fill="#1FAE8C" opacity="0.08"/>
+  <!-- body / coat -->
+  <path d="M 198.0 686.0 C 198.0 476.00000000000006, 270.0 406.0, 450.0 406.0 C 630.0 406.0, 702.0 476.00000000000006, 702.0 686.0 Z" fill="#FFFFFF" stroke="#0B4F8A" stroke-width="6"/>
+  <path d="M 450.0 406.0 L 450.0 686.0" stroke="#0B4F8A" stroke-width="4" opacity="0.4"/>
+  <!-- id badge -->
+  <rect x="460.0" y="462.0" width="63.00000000000001" height="40.5" rx="4" fill="#0B4F8A"/>
+  <!-- collar -->
+  <path d="M 412.0 406.0 L 450.0 441.0 L 488.0 406.0" fill="none" stroke="#0B4F8A" stroke-width="5"/>
+  <!-- stethoscope -->
+  <path d="M 404.0 420.0 C 394.0 504.0, 410.0 560.0, 430.0 546.0 C 446.0 532.0, 448.0 434.0, 448.0 434.0"
+        fill="none" stroke="#17886D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="404.0" cy="420.0" r="7" fill="#17886D"/>
+  <circle cx="430.0" cy="549.5" r="10" fill="none" stroke="#17886D" stroke-width="5"/>
+  <!-- neck -->
+  <rect x="436.0" y="350.0" width="28" height="30" rx="10" fill="#D89A6A"/>
+  <!-- head -->
+  <circle cx="450.0" cy="252.0" r="117.0" fill="#F2C39B"/>
+  <!-- hair -->
+  <path d="M 333.0 238.00000000000003 C 324.0 140.0, 576.0 140.0, 567.0 238.00000000000003
+           C 567.0 168.0, 333.0 168.0, 333.0 238.00000000000003 Z" fill="#073A66"/>
+  <!-- simple face -->
+  <circle cx="409.5" cy="255.5" r="4" fill="#073A66"/>
+  <circle cx="490.5" cy="255.5" r="4" fill="#073A66"/>
+  <path d="M 423.0 280.0 Q 450.0 290.5 477.0 280.0" fill="none" stroke="#073A66" stroke-width="3" stroke-linecap="round"/>
+  <!-- headband accent -->
+  <circle cx="450.0" cy="252.0" r="117.0" fill="none" stroke="#1FAE8C" stroke-width="3" opacity="0.35"/>
+</svg>

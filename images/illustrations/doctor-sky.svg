@@ -1,0 +1,37 @@
+<svg viewBox="0 0 700 900" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EAF3FA"/>
+      <stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="700" height="900" fill="url(#bg)"/>
+  <circle cx="574.0" cy="162.0" r="112.0" fill="#0B4F8A" opacity="0.10"/>
+  <circle cx="84.0" cy="765.0" r="154.0" fill="#0B4F8A" opacity="0.08"/>
+  <!-- body / coat -->
+  <path d="M 154.0 882.0 C 154.0 612.0, 210.0 522.0, 350.0 522.0 C 489.99999999999994 522.0, 546.0 612.0, 546.0 882.0 Z" fill="#FFFFFF" stroke="#4FA8DA" stroke-width="6"/>
+  <path d="M 350.0 522.0 L 350.0 882.0" stroke="#4FA8DA" stroke-width="4" opacity="0.4"/>
+  <!-- id badge -->
+  <rect x="360.0" y="594.0" width="49.00000000000001" height="31.5" rx="4" fill="#4FA8DA"/>
+  <!-- collar -->
+  <path d="M 312.0 522.0 L 350.0 567.0 L 388.0 522.0" fill="none" stroke="#4FA8DA" stroke-width="5"/>
+  <!-- stethoscope -->
+  <path d="M 304.0 540.0 C 294.0 648.0, 310.0 720.0, 330.0 702.0 C 346.0 684.0, 348.0 558.0, 348.0 558.0"
+        fill="none" stroke="#17886D" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="304.0" cy="540.0" r="7" fill="#17886D"/>
+  <circle cx="330.0" cy="706.5" r="10" fill="none" stroke="#17886D" stroke-width="5"/>
+  <!-- neck -->
+  <rect x="336.0" y="450.0" width="28" height="30" rx="10" fill="#D89A6A"/>
+  <!-- head -->
+  <circle cx="350.0" cy="324.0" r="91.0" fill="#F2C39B"/>
+  <!-- hair -->
+  <path d="M 259.0 306.0 C 252.0 180.0, 448.0 180.0, 441.0 306.0
+           C 441.0 216.0, 259.0 216.0, 259.0 306.0 Z" fill="#073A66"/>
+  <!-- simple face -->
+  <circle cx="318.5" cy="328.5" r="4" fill="#073A66"/>
+  <circle cx="381.5" cy="328.5" r="4" fill="#073A66"/>
+  <path d="M 329.0 360.0 Q 350.0 373.5 371.0 360.0" fill="none" stroke="#073A66" stroke-width="3" stroke-linecap="round"/>
+  <!-- headband accent -->
+  <circle cx="350.0" cy="324.0" r="91.0" fill="none" stroke="#0B4F8A" stroke-width="3" opacity="0.35"/>
+</svg>
